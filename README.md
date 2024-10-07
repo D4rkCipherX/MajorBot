@@ -1,7 +1,5 @@
 > [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/D4rkCipherX)
 
-![img1](./.github/image/MAJOR BOT.png)
-
 # Use Node.Js 18 or later
 
 ## Functionality
